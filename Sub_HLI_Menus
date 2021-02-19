@@ -1,0 +1,31 @@
+{
+"sub_fields":[
+{ "id":0,
+  "loanDetails":"Interest on Housing Loan"
+},
+{
+  "id":1,
+  "loanDetails": "Home Loan Account Number"
+},
+{
+  "id":2,
+  "loanDetails": "Name of Lender"
+},
+{
+  "id":3,
+  "loanDetails": "Lender PAN"
+},
+{
+  "id":4,
+  "dropDown" : "Financial Institute"
+},
+{
+  "id":5,
+  "dropDown" : "Pan Holder"
+},
+{
+  "id":6,
+  "dropDown" : "Others"
+}
+]
+}
