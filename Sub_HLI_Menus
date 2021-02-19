@@ -14,15 +14,6 @@
 {
   "id":3,
   "loanDetails": "Lender PAN"
-},
-{
-  "dropDown" : "Financial Institute"
-},
-{
-  "dropDown" : "Pan Holder"
-},
-{
-  "dropDown" : "Others"
 }
 ]
 }
