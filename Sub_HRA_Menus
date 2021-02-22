@@ -1,0 +1,36 @@
+{
+"sub_fields":[
+{ "id":0,
+  "loanDetails":"Monthly Rental"
+},
+{
+  "id":1,
+  "loanDetails": "Landlord Name"
+},
+{
+  "id":2,
+  "loanDetails": "Landlord PAN"
+}
+],
+"dropDown":[
+{
+"id":0,
+"drop_item":"---Select---"
+},
+{ "id":1,
+"drop_item":"Mumbai"
+},
+{
+"id":2,
+"drop_item":"Delhi"
+},
+{
+"id":3,
+"drop_item":"Chennai"
+},
+{
+"id":4,
+"drop_item":"Others"
+}
+]
+}
