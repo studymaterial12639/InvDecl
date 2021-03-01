@@ -1,19 +1,26 @@
 {
 "sub_fields":[
 { "id":0,
-  "loanDetails":"Interest on Housing Loan"
+  "loanDetails":"Interest on Housing Loan",
+  "keyBoardType":"decimal-pad"
 },
 {
   "id":1,
-  "loanDetails": "Home Loan Account Number"
+  "loanDetails": "Home Loan Account Number",
+  "keyBoardType":"default",
+  "maxLength":20
 },
 {
   "id":2,
-  "loanDetails": "Name of Lender"
+  "loanDetails": "Name of Lender",
+  "keyBoardType":"default",
+  "maxLength":30
 },
 {
   "id":3,
-  "loanDetails": "Lender PAN"
+  "loanDetails": "Lender PAN",
+  "keyBoardType":"default",
+  "maxLength":10
 }
 ],
 "dropDown":[
