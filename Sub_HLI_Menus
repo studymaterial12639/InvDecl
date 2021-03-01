@@ -3,25 +3,25 @@
 { "id":0,
   "loanDetails":"Interest on Housing Loan",
   "keyBoardType":"decimal-pad",
-  "maxLength":10
+  "maxLength":"10"
 },
 {
   "id":1,
   "loanDetails": "Home Loan Account Number",
   "keyBoardType":"default",
-  "maxLength":20
+  "maxLength":"20"
 },
 {
   "id":2,
   "loanDetails": "Name of Lender",
   "keyBoardType":"default",
-  "maxLength":30
+  "maxLength":"30"
 },
 {
   "id":3,
   "loanDetails": "Lender PAN",
   "keyBoardType":"default",
-  "maxLength":10
+  "maxLength":"10"
 }
 ],
 "dropDown":[
